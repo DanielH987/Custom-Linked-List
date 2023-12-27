@@ -26,34 +26,34 @@ This Java application is designed to simulate the operations of a stack and a qu
 
 ## Example for Stacks
 Input:  
-PUSH 5  
-PUSH 10  
-PUSH 7  
-PUSH 90  
-POP  
-POP  
-PRINT  
-CLEAR  
-POP  
-PUSH 3  
-PUSH 67  
-POP  
-PUSH 22  
-POP  
-POP  
-POP  
-***  
+>PUSH 5  
+>PUSH 10  
+>PUSH 7  
+>PUSH 90  
+>POP  
+>POP  
+>PRINT  
+>CLEAR  
+>POP  
+>PUSH 3  
+>PUSH 67  
+>POP  
+>PUSH 22  
+>POP  
+>POP  
+>POP  
+>***  
 
 Output:  
-90  
-7  
-5  
-10  
-empty  
-67  
-22  
-3  
-empty  
+>90  
+>7  
+>5  
+>10  
+>empty  
+>67  
+>22  
+>3  
+>empty  
 
 Sample input files (`stack1.txt`, `stack2.txt`, `stack3.txt`) and their expected outputs are available for testing.
 
