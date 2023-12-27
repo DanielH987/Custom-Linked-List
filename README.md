@@ -59,34 +59,34 @@ Sample input files (`stack1.txt`, `stack2.txt`, `stack3.txt`) and their expected
 
 ## Example for Queues
 Input:  
-ENQUEUE 5  
-ENQUEUE 10  
-ENQUEUE 7  
-ENQUEUE 90  
-DEQUEUE  
-DEQUEUE  
-PRINT  
-CLEAR  
-DEQUEUE  
-ENQUEUE 3  
-ENQUEUE 67  
-DEQUEUE  
-ENQUEUE 22  
-DEQUEUE  
-DEQUEUE  
-DEQUEUE  
-***  
+>ENQUEUE 5  
+>ENQUEUE 10  
+>ENQUEUE 7  
+>ENQUEUE 90  
+>DEQUEUE  
+>DEQUEUE  
+>PRINT  
+>CLEAR  
+>DEQUEUE  
+>ENQUEUE 3  
+>ENQUEUE 67  
+>DEQUEUE  
+>ENQUEUE 22  
+>DEQUEUE  
+>DEQUEUE  
+>DEQUEUE  
+>***  
 
 Output:  
-5  
-10  
-7  
-90  
-empty  
-3  
-67  
-22  
-empty  
+>5  
+>10  
+>7  
+>90  
+>empty  
+>3  
+>67  
+>22  
+>empty  
 
 Sample input files (`queue1.txt`, `queue2.txt`, `queue3.txt`...) and their expected outputs are available for testing.
 
