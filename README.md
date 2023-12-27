@@ -1,7 +1,7 @@
 # Java Stack and Queue Simulator
 
 ## Overview
-This Java application is designed to simulate the operations of a stack and a queue using a custom linked list implementation. The project is based on the `LinkedList206` class structure from the CIS 206 class taught by [Geoffrey Draper](https://about.byuh.edu/geoffrey-draper) videos and is intended for educational purposes to demonstrate the manipulation and improvement of existing code.
+This Java application is designed to simulate the operations of a stack and a queue using a custom linked list implementation. The project is based on the `LinkedList206` class structure from the CIS 206 class taught by [Geoffrey Draper](https://about.byuh.edu/geoffrey-draper) and is intended for educational purposes to demonstrate the manipulation and improvement of existing code.
 
 ## Features
 - **Custom Stack Implementation**: Utilizes a custom linked list to simulate stack operations such as push, pop, clear, and print.
