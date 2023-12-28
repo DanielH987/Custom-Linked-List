@@ -42,7 +42,7 @@ Input:
 >POP  
 >POP  
 >POP  
->***  
+>\***  
 
 Output:  
 >90  
@@ -75,7 +75,7 @@ Input:
 >DEQUEUE  
 >DEQUEUE  
 >DEQUEUE  
->***  
+>\***  
 
 Output:  
 >5  
